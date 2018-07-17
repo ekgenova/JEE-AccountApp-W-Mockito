@@ -1,4 +1,4 @@
-package sampleapp3;
+package com.qa.interoperability.test;
 
 import static org.junit.Assert.*;
 
